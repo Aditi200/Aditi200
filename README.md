@@ -24,7 +24,7 @@ I'm a Computer Science Enthusiast  👨‍💻, Currently in pre-final year  at 
 <a href="https://sourcerer.io/Aditi200">Check more about me here 🌟 </a>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/https:/www.linkedin.com/in/aditi-gupta-a837081a5/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Aditi Gupta" height="25" width="25" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in//https:/www.linkedin.com/in/aditi-gupta-a837081a5//" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" alt="Aditi Gupta" height="25" width="25" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/yha pr apna" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Aditi Gupta" height="25" width="25" /></a>&nbsp;&nbsp;
 <!-- <a href="https://dev.to/raghavbyte" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@raghavbyte" height="25" width="25" /></a> &nbsp;&nbsp; -->
 <a href="https://www.instagram.com/yha pr apna/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Aditi Gupta" height="25" width="25" /></a>&nbsp;&nbsp;
